@@ -5,7 +5,8 @@ It's an integration of the popular Cowrie honeypot with Elastic Stack, which inc
 - Kibana
 - Filebeat
 
-You can read more about Cowrie in their official [repository](https://github.com/cowrie/cowrie)
+You can read more about Cowrie in their official [repository](https://github.com/cowrie/cowrie).
+You can find other interesting honeypots [here](https://github.com/paralax/awesome-honeypots).
 
 ## How to install
 You need to have Docker Desktop or Docker Compose installed on your machine.
